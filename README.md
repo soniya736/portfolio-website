@@ -1,2 +1,2 @@
 # portfolio-website
-My frontend portfolio project using HTML ,CSS and JS
+My frontend portfolio project using HTML and CSS
